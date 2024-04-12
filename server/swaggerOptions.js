@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:3001",
+        url: "https://get-youtube-subscribers-nwja.onrender.com",
         description: "Deployment server",
       },
     ],
